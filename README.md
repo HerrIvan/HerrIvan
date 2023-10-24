@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HerrIvan. Ivan Herreros, PhD in neurosciences, with several years of experience building data products in the indsutry.
+- 👋 Hi, I’m @HerrIvan. Ivan Herreros, PhD in neurosciences, with several years of experience building data products in the industry.
 - 👀 I’m interested in LLMs, reasoning in embedding spaces. And more engineering stuff like cloud deployments, data pipelines, ML/Ops.
 - 🌱 I’m currently experimenting with LLMs, Knowledge Graphs, etc.
 - 💞️ I’m looking to collaborate on any of the above stuff.
